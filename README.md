@@ -1,1 +1,2 @@
 # Salary-Sheet-Excel
+A salary sheet in Microsoft Excel is a convenient tool for distributing salaries among the various employees working for a particular company. And in this, the employees have many allowances and deductions according to the different company structures. And we can make a salary sheet by calculating and adjusting those respective amounts with the basic salary using Microsoft Excel.
